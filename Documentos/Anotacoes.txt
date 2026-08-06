@@ -1,0 +1,4 @@
+Comando para criação de Migrations:
+    dotnet ef migrations add "nome ou identificação"
+Comando para a criação do banco de dados:
+    dotnet ef database update
