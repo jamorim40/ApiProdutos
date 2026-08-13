@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# ApiProdutos
+>>>>>>> e5a448e609461d60d85994d434e6db39bdec59a8
 # CadastroProdutos API
 
 API REST para cadastro e gerenciamento de produtos, com autenticação via JWT e documentação automática com Swagger.
